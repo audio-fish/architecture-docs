@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="wireframe.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="-1818.7891"
+     inkscape:cy="546.56326"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="770"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect3955"
+       width="357.23969"
+       height="351.94803"
+       x="-615.5603"
+       y="32.201576"
+       style="fill:none;stroke:#000000;stroke-width:2.51221875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.51221871;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4766"
+       width="357.0246"
+       height="16.846043"
+       x="-615.5603"
+       y="32.201576" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.51636553;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4768"
+       width="228.29349"
+       height="244.17261"
+       x="-532.94232"
+       y="92.136902" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.88469982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4770"
+       width="79.738976"
+       height="16.630966"
+       x="-384.38782"
+       y="343.18878" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.40837669px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21020941"
+       x="-376.34216"
+       y="355.24127"
+       id="text4774"><tspan
+         sodipodi:role="line"
+         id="tspan4772"
+         x="-376.34216"
+         y="355.24127"
+         style="stroke-width:0.21020941">Create Runbook</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.51221871;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4797"
+       width="73.70945"
+       height="13.985122"
+       x="-610.80957"
+       y="92.136894" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.12001514px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22800037"
+       x="-605.76367"
+       y="102.74238"
+       id="text4801"><tspan
+         sodipodi:role="line"
+         id="tspan4799"
+         x="-605.76367"
+         y="102.74238"
+         style="stroke-width:0.22800037">runbook1</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.51221871;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4797-3"
+       width="73.709457"
+       height="13.985123"
+       x="-610.62262"
+       y="111.45148" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.12001514px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22800037"
+       x="-605.57672"
+       y="122.05698"
+       id="text4801-7"><tspan
+         sodipodi:role="line"
+         id="tspan4799-1"
+         x="-605.57672"
+         y="122.05698"
+         style="stroke-width:0.22800037">runbook2</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.51221871;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4797-3-7"
+       width="73.709457"
+       height="13.985124"
+       x="-610.62262"
+       y="129.66991" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.12001514px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22800037"
+       x="-605.57672"
+       y="140.27538"
+       id="text4801-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan4799-1-6"
+         x="-605.57672"
+         y="140.27538"
+         style="stroke-width:0.22800037">runbook3</tspan></text>
+  </g>
+</svg>
