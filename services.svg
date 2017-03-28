@@ -229,7 +229,7 @@
        inkscape:stockid="Arrow1Lend">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003000000004pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path21867"
          inkscape:connector-curvature="0" />
@@ -244,7 +244,7 @@
        inkscape:stockid="Arrow1Lstart">
       <path
          transform="matrix(0.8,0,0,0.8,10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003000000004pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path21641"
          inkscape:connector-curvature="0" />
@@ -312,38 +312,6 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(0.8,0,0,0.8,10,0)" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker19673"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:collect="always">
-      <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path19671"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker19483"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:collect="always">
-      <path
-         transform="matrix(0.8,0,0,0.8,10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path19481"
-         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Lend"
@@ -625,7 +593,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
      inkscape:cx="1262.0601"
-     inkscape:cy="582.35423"
+     inkscape:cy="1268.0685"
      inkscape:document-units="mm"
      inkscape:current-layer="g10644"
      showgrid="false"
@@ -1086,12 +1054,6 @@
            style="fill:none;stroke:#000000;stroke-width:0.62383747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker18783);marker-end:url(#marker18961)"
            sodipodi:nodetypes="cc" />
         <path
-           sodipodi:nodetypes="cc"
-           style="fill:none;stroke:#000000;stroke-width:0.62383747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker19483);marker-end:url(#marker19673)"
-           d="m -1029.6384,165.39601 c 30.01004,8.02323 67.45343,154.70638 140.58836,147.68605"
-           id="path19479"
-           inkscape:connector-curvature="0" />
-        <path
            inkscape:connector-curvature="0"
            id="path20143"
            d="m -1029.6384,165.39601 c 30.01004,8.02323 67.45343,208.86319 140.58836,201.84286"
@@ -1106,7 +1068,7 @@
         <path
            sodipodi:nodetypes="cc"
            style="fill:none;stroke:#000000;stroke-width:0.62383747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker21643);marker-end:url(#marker21869)"
-           d="m -1029.6384,346.92159 c 30.01004,8.02322 67.45343,27.33761 140.58836,20.31728"
+           d="m -1029.6384,346.92159 c 30.01004,8.02322 67.45343,-26.8192 140.58836,-33.83953"
            id="path21639"
            inkscape:connector-curvature="0" />
         <text
